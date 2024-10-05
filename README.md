@@ -1,5 +1,3 @@
 # Git_Course
 For Elzero Web School Git_Course
-
-
-##Project Notes
+This is a test repo
